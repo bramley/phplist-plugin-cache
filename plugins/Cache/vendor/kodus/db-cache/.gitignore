@@ -1,0 +1,7 @@
+/.*
+!.git*
+!.*.yml
+/vendor
+phpunit.xml
+clover.xml
+composer.lock

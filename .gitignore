@@ -1,0 +1,13 @@
+*.cache
+*.html
+
+## Composer ##
+plugins/Cache/vendor/psr/simple-cache/*
+!plugins/Cache/vendor/psr/simple-cache/LICENSE.md
+!plugins/Cache/vendor/psr/simple-cache/src
+
+/plugins/Cache/vendor/kodus/db-cache/*
+!plugins/Cache/vendor/kodus/db-cache/src/
+
+plugins/Cache/vendor/kodus/file-cache/*
+!plugins/Cache/vendor/kodus/file-cache/src
