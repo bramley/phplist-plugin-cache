@@ -1,2 +1,5 @@
+version 1.1.0+20230727
+      Move File and Database cache classes from Common plugin
+
 version 1.0.0+20230727
       First release
