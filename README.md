@@ -1,4 +1,4 @@
-# Common Plugin #
+# Cache Plugin #
 
 ## Description ##
 
