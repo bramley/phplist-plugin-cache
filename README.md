@@ -19,5 +19,6 @@ The recommended way to install is through the Plugins page (menu Config > Manage
 ## Version history ##
 
     version         Description
+    1.1.1+20231025  Allow default TTL to be specified for new database cache and file cache
     1.1.0+20230727  Move File and Database cache classes from Common plugin
     1.0.0+20230727  First release
